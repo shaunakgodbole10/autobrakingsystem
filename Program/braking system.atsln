@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "braking system", "braking system\braking system.cproj", "{C8B283A2-FF13-40D8-BE9D-CC57E2B6F226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B283A2-FF13-40D8-BE9D-CC57E2B6F226}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C8B283A2-FF13-40D8-BE9D-CC57E2B6F226}.Debug|AVR.Build.0 = Debug|AVR
+		{C8B283A2-FF13-40D8-BE9D-CC57E2B6F226}.Release|AVR.ActiveCfg = Release|AVR
+		{C8B283A2-FF13-40D8-BE9D-CC57E2B6F226}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
